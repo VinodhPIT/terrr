@@ -56,7 +56,7 @@ export default function PieChart({
                   <span
                     className={`db_piechart_legend_marker ${e.bgColor}`}
                   ></span>
-                  <span className="db_piechart_legend_text">{e.label}</span>
+                 art_legend_text">{e.label}</span>
                 </div>
               );
             })}
